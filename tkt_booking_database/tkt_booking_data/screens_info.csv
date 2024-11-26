@@ -1,16 +1,31 @@
 screen_id,screen_name,location,city,state,country,seating_capacity,created_by,create_date,modified_by,modified_date
-1,Screen 1,CMR Central,Visakhapatnam,Andhra Pradesh,India,300,Admin,2024-01-01,Admin,2024-11-21
-2,Screen 2,Mukta A2 Cinemas,Visakhapatnam,Andhra Pradesh,India,250,Admin,2024-01-01,Admin,2024-11-21
-3,Screen 3,INOX - Varun Beach,Visakhapatnam,Andhra Pradesh,India,400,Admin,2024-01-01,Admin,2024-11-21
-4,Screen 4,PVR - MVP,Visakhapatnam,Andhra Pradesh,India,350,Admin,2024-01-01,Admin,2024-11-21
-5,Screen 5,Cinepolis - Jagadamba,Visakhapatnam,Andhra Pradesh,India,450,Admin,2024-01-01,Admin,2024-11-21
-6,Screen 6,GVK One Mall,Visakhapatnam,Andhra Pradesh,India,200,Admin,2024-01-01,Admin,2024-11-21
-7,Screen 7,Big Cinemas - Simhachalam,Visakhapatnam,Andhra Pradesh,India,250,Admin,2024-01-01,Admin,2024-11-21
-8,Screen 8,IMAX - Vizag,Visakhapatnam,Andhra Pradesh,India,500,Admin,2024-01-01,Admin,2024-11-21
-9,Screen 9,MMR Cinemas,Visakhapatnam,Andhra Pradesh,India,400,Admin,2024-01-01,Admin,2024-11-21
-10,Screen 10,Ambica Cinema,Visakhapatnam,Andhra Pradesh,India,300,Admin,2024-01-01,Admin,2024-11-21
-11,Screen 11,Star Cinemas,Visakhapatnam,Andhra Pradesh,India,350,Admin,2024-01-01,Admin,2024-11-21
-12,Screen 12,Platinum Cinemas,Visakhapatnam,Andhra Pradesh,India,250,Admin,2024-01-01,Admin,2024-11-21
-13,Screen 13,Silver Screen,Visakhapatnam,Andhra Pradesh,India,200,Admin,2024-01-01,Admin,2024-11-21
-14,Screen 14,Rama Cinema,Visakhapatnam,Andhra Pradesh,India,150,Admin,2024-01-01,Admin,2024-11-21
-15,Screen 15,Sun Cinemas,Visakhapatnam,Andhra Pradesh,India,300,Admin,2024-01-01,Admin,2024-11-21
+1,Screen 1,CMR Central,Visakhapatnam,Andhra Pradesh,India,300,Admin,15-02-2023,Admin,26-11-2023
+2,Screen 2,Mukta A2 Cinemas,Visakhapatnam,Andhra Pradesh,India,250,Admin,16-02-2023,Admin,27-11-2023
+3,Screen 3,INOX - Varun Beach,Visakhapatnam,Andhra Pradesh,India,400,Admin,17-02-2023,Admin,28-11-2023
+4,Screen 4,PVR - MVP,Visakhapatnam,Andhra Pradesh,India,350,Admin,18-02-2023,Admin,29-11-2023
+5,Screen 5,Cinepolis - Jagadamba,Visakhapatnam,Andhra Pradesh,India,450,Admin,19-02-2023,Admin,30-11-2023
+6,Screen 6,GVK One Mall,Visakhapatnam,Andhra Pradesh,India,200,Admin,20-02-2023,Admin,01-12-2023
+7,Screen 7,Big Cinemas - Simhachalam,Visakhapatnam,Andhra Pradesh,India,250,Admin,21-02-2023,Admin,02-12-2023
+8,Screen 8,IMAX - Vizag,Visakhapatnam,Andhra Pradesh,India,500,Admin,22-02-2023,Admin,03-12-2023
+9,Screen 9,MMR Cinemas,Visakhapatnam,Andhra Pradesh,India,400,Admin,23-02-2023,Admin,04-12-2023
+10,Screen 10,Ambica Cinema,Visakhapatnam,Andhra Pradesh,India,300,Admin,24-02-2023,Admin,05-12-2023
+11,Screen 11,Star Cinemas,Visakhapatnam,Andhra Pradesh,India,350,Admin,25-02-2023,Admin,06-12-2023
+12,Screen 12,Platinum Cinemas,Visakhapatnam,Andhra Pradesh,India,250,Admin,26-02-2023,Admin,07-12-2023
+13,Screen 13,Silver Screen,Visakhapatnam,Andhra Pradesh,India,200,Admin,27-02-2023,Admin,08-12-2023
+14,Screen 14,Rama Cinema,Visakhapatnam,Andhra Pradesh,India,150,Admin,28-02-2023,Admin,09-12-2023
+15,Screen 15,Sun Cinemas,Visakhapatnam,Andhra Pradesh,India,300,Admin,01-03-2023,Admin,10-12-2023
+16,Screen 16,PVR - Forum Mall,Bangalore,Karnataka,India,350,Admin,02-03-2023,Admin,11-12-2023
+17,Screen 17,INOX - MG Road,Bangalore,Karnataka,India,400,Admin,03-03-2023,Admin,12-12-2023
+18,Screen 18,GVK One Mall,Hyderabad,Telangana,India,250,Admin,04-03-2023,Admin,13-12-2023
+19,Screen 19,Cinepolis - Banjara Hills,Hyderabad,Telangana,India,450,Admin,05-03-2023,Admin,14-12-2023
+20,Screen 20,INOX - Hitech City,Hyderabad,Telangana,India,400,Admin,06-03-2023,Admin,15-12-2023
+21,Screen 21,AMPA Skywalk,Chennai,Tamil Nadu,India,350,Admin,07-03-2023,Admin,16-12-2023
+22,Screen 22,Deluxe Theatre,Chennai,Tamil Nadu,India,300,Admin,08-03-2023,Admin,17-12-2023
+23,Screen 23,INOX - Phoenix Market City,Chennai,Tamil Nadu,India,500,Admin,09-03-2023,Admin,18-12-2023
+24,Screen 24,Sathyam Cinemas,Chennai,Tamil Nadu,India,250,Admin,10-03-2023,Admin,19-12-2023
+25,Screen 25,PVR - Lulu Mall,Kochi,Kerala,India,350,Admin,11-03-2023,Admin,20-12-2023
+26,Screen 26,Prathibha Cinemas,Trivandrum,Kerala,India,200,Admin,12-03-2023,Admin,21-12-2023
+27,Screen 27,Karachi Theatre,Coimbatore,Tamil Nadu,India,250,Admin,13-03-2023,Admin,22-12-2023
+28,Screen 28,Paradise Mall,Visakhapatnam,Andhra Pradesh,India,300,Admin,14-03-2023,Admin,23-12-2023
+29,Screen 29,Big Cinemas - T Nagar,Chennai,Tamil Nadu,India,400,Admin,15-03-2023,Admin,24-12-2023
+30,Screen 30,Cinepolis - Kochi,Kochi,Kerala,India,350,Admin,16-03-2023,Admin,25-12-2023
